@@ -17,6 +17,11 @@ Based on the [PRAW tutorial](https://praw.readthedocs.io/en/stable/getting_start
 }
 ```
 
+Next, install project dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 Go to the project folder and open terminal.
 ```bash
