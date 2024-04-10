@@ -1,9 +1,7 @@
 from wordcloud import WordCloud
-import numpy as np
 from .scripts import parser
 from .modules.reddit import Reddit
 import matplotlib.pyplot as plt
-import pandas as pd
 
 class Main:
     def __init__(self) -> None:
